@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & Backend Developer
 --------------------------------------
 
-I've been learning C# for 2 years, and I have experience in NodeJS, ExpressJS
+I am a skilled backend developer with expertise in NodeJS and ExpressJS. I am also a proficient software engineer in C#. With my passion for developing robust and efficient applications, I have honed my skills in creating scalable and high-performance systems that meet business needs.
+
+My experience in backend development has equipped me with a solid understanding of database management, API development, and server-side scripting. I have worked on several projects where I have implemented RESTful APIs, authentication, and authorization mechanisms, and database schema design.
+
+As a software engineer in C#, I have developed and maintained complex systems with a strong focus on performance, maintainability, and code quality. My expertise in .NET framework, MVC, and Web API has allowed me to create scalable and reliable enterprise-grade applications.
+
+I believe in writing clean, maintainable, and efficient code that not only meets the requirements but also adheres to industry standards and best practices. If you are looking for a talented and dedicated backend developer or software engineer, feel free to reach out to me.
 
 * 🌍  I'm based in Serbia
 * ✉️  You can contact me at [mmarko2906@gmail.com](mailto:mmarko2906@gmail.com)
