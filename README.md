@@ -10,7 +10,7 @@ My experience in backend development has equipped me with a solid understanding 
 
 As a software engineer in C#, I have developed and maintained complex systems with a strong focus on performance, maintainability, and code quality. My expertise in .NET framework, MVC, and Web API has allowed me to create scalable and reliable enterprise-grade applications.
 
-I believe in writing clean, maintainable, and efficient code that not only meets the requirements but also adheres to industry standards and best practices. If you are looking for a talented and dedicated backend developer or software engineer, feel free to reach out to me.
+I believe in writing clean, maintainable, and efficient code that not only meets the requirements but also adheres to industry standards and best practices. If you are looking for a dedicated backend developer or software engineer, feel free to reach out to me.
 
 * 🌍  I'm based in Serbia
 * ✉️  You can contact me at [mmarko2906@gmail.com](mailto:mmarko2906@gmail.com)
