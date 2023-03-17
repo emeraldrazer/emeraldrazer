@@ -8,6 +8,8 @@ I am a versatile backend developer and software engineer with a solid background
 
 With my expertise in NodeJS and ExpressJS, I have developed various APIs with features such as authentication, authorization, and database schema design. I have also implemented RESTful APIs, designed data models, and used various libraries and frameworks to build high-performance systems.
 
+In addition, I have over 2 years of experience in C# development, where I have specialized in linking databases with applications using Microsoft SQL Server. I am also skilled in object-oriented programming and have experience in developing apps that interact with the web using web requests. I am also knowledgeable in memory management, allowing me to optimize the performance of my applications.
+
 My passion for clean code and adherence to best practices has been instrumental in ensuring that my projects are not only functional but also maintainable and scalable. If you are looking for a dedicated backend developer and software engineer, please don't hesitate to reach out to me.
 
 * 🌍  I'm based in Serbia
