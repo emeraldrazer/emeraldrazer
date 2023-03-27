@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & Backend Developer
 --------------------------------------
 
-I have over 2 years of experience in C# development, Im also backend developer with a solid background in NodeJS, ExpressJS. My experience in backend development has been focused on creating robust and scalable APIs that link with databases such as MySQL and Microsoft SQL, and integrating them with websites and applications.
+I have over 2 years of experience in C# development with a solid background in NodeJS, ExpressJS. My experience in backend development has been focused on creating robust and scalable APIs that link with databases such as MySQL and Microsoft SQL, and integrating them with websites and applications.
 
 With my expertise in C#, Im skilled in object-oriented programming and have experience in developing apps that interact with the web using web requests. I have specialized in linking databases with applications using Microsoft SQL. I am also knowledgeable in memory management, allowing me to optimize the performance of my applications.
 
