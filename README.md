@@ -4,13 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer & Backend Developer
 --------------------------------------
 
-I have over 2 years of experience in C# development with a solid background in NodeJS, ExpressJS. My experience in backend development has been focused on creating robust and scalable APIs that link with databases such as MySQL and Microsoft SQL, and integrating them with websites and applications.
+👋 Hey there! I'm Marko, a passionate software engineer with over 2+ years of experience in C#. My journey in the world of programming has led me to develop a diverse set of skills and knowledge in various areas of software development.
 
-With my expertise in C#, Im skilled in object-oriented programming and have experience in developing apps that interact with the web using web requests. I have specialized in linking databases with applications using Microsoft SQL. I am also knowledgeable in memory management, allowing me to optimize the performance of my applications.
+🔨 My expertise lies in C# and object-oriented programming (OOP), where I have honed my skills through hands-on experience and building advanced programs. I have successfully developed TCP/UDP Servers/Clients, Login and authentication apps connected to my API built in NodeJS/ExpressJS, which is seamlessly integrated with a MySQL database. Additionally, I have developed applications focused on working with JSON files.
 
-In addition, I have developed various APIs with features such as authentication, authorization, and database schema design using NodeJS and ExpressJS. I have also implemented RESTful APIs, designed data models, and used various libraries and frameworks to build high-performance systems.
+💾 I possess a deep understanding of database connectivity, having linked C# applications directly to MySQL and Microsoft SQL Server. I have also built Discord bots, Telegram bots, and other applications related to the field of ethical hacking, demonstrating my versatility and adaptability.
 
-My passion for clean code and adherence to best practices has been instrumental in ensuring that my projects are not only functional but also maintainable and scalable. If you are looking for a dedicated backend developer and software engineer, please don't hesitate to reach out to me.
+🌐 In the realm of NodeJS/ExpressJS, I have created advanced RestAPIs with features such as Register/Login/Logout functionality, enhanced security through authorization with JSON Web Tokens (JWT), and robust security practices.
+
+🅰️ I'm also well-versed in AngularJS, capable of developing visually appealing frontend websites and seamlessly connecting them to the backend for a seamless user experience.
+
+🌟 I'm passionate about solving complex problems, creating efficient and scalable solutions, and constantly exploring new technologies and frameworks to enhance my skills as a software engineer.
+
+📚 Check out my GitHub repositories to see some of the projects I've worked on and explore my code. Feel free to reach out to me if you have any questions or would like to collaborate on exciting projects. 
 
 * 🌍  I'm based in Serbia
 * ✉️  You can contact me at [mmarko2906@gmail.com](mailto:mmarko2906@gmail.com)
